@@ -1,0 +1,15 @@
+../Core/Src/main.c:105:5:main	1
+../Core/Src/main.c:215:6:SystemClock_Config	4
+../Core/Src/main.c:262:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:297:13:MX_GPIO_Init	1
+../Core/Src/main.c:332:6:TIM6_DAC_IRQHandler	1
+../Core/Src/main.c:342:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:349:6:initTim6	2
+../Core/Src/main.c:370:6:vApplicationStackOverflowHook	1
+../Core/Src/main.c:375:6:vApplicationMallocFailedHook	1
+../Core/Src/main.c:381:6:vApplicationIdleHook	1
+../Core/Src/main.c:388:6:ledToggleTask	2
+../Core/Src/main.c:438:13:initSpi2	2
+../Core/Src/main.c:487:6:queueTestReceive	2
+../Core/Src/main.c:506:6:OLED_Task	1
+../Core/Src/main.c:575:6:Error_Handler	1

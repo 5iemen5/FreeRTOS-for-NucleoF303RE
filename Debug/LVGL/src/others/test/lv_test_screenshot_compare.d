@@ -1,0 +1,8 @@
+LVGL/src/others/test/lv_test_screenshot_compare.o: \
+ ../LVGL/src/others/test/lv_test_screenshot_compare.c \
+ ../LVGL/src/others/test/../../lv_conf_internal.h \
+ ../LVGL/src/others/test/../../lv_conf_kconfig.h \
+ ../LVGL/src/others/test/../../lv_conf.h
+../LVGL/src/others/test/../../lv_conf_internal.h:
+../LVGL/src/others/test/../../lv_conf_kconfig.h:
+../LVGL/src/others/test/../../lv_conf.h:

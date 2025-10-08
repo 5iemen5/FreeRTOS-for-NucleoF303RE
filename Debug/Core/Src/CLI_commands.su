@@ -1,0 +1,2 @@
+../Core/Src/CLI_commands.c:25:12:xBlink_CLI	40	static
+../Core/Src/CLI_commands.c:55:6:CLI_read	40	static

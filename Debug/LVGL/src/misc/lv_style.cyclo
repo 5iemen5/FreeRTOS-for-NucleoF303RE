@@ -1,0 +1,17 @@
+../LVGL/src/misc/../font/../draw/../misc/../stdlib/lv_string.h:73:20:lv_memzero	1
+../LVGL/src/misc/lv_style.h:385:20:lv_style_is_const	2
+../LVGL/src/misc/lv_style.h:480:30:lv_style_get_prop_inlined	6
+../LVGL/src/misc/lv_style.h:520:24:lv_style_get_prop_group	2
+../LVGL/src/misc/lv_style.c:178:6:lv_style_init	1
+../LVGL/src/misc/lv_style.c:192:6:lv_style_reset	2
+../LVGL/src/misc/lv_style.c:204:6:lv_style_copy	2
+../LVGL/src/misc/lv_style.c:216:6:lv_style_merge	7
+../LVGL/src/misc/lv_style.c:250:17:lv_style_register_prop	4
+../LVGL/src/misc/lv_style.c:286:17:lv_style_get_num_custom_props	1
+../LVGL/src/misc/lv_style.c:291:6:lv_style_remove_prop	8
+../LVGL/src/misc/lv_style.c:344:6:lv_style_set_prop	7
+../LVGL/src/misc/lv_style.c:399:16:lv_style_get_prop	1
+../LVGL/src/misc/lv_style.c:404:6:lv_style_transition_dsc_init	2
+../LVGL/src/misc/lv_style.c:415:18:lv_style_prop_get_default	23
+../LVGL/src/misc/lv_style.c:493:6:lv_style_is_empty	1
+../LVGL/src/misc/lv_style.c:500:9:lv_style_prop_lookup_flags	6

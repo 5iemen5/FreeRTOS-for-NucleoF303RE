@@ -1,0 +1,105 @@
+LVGL/src/osal/lv_mqx.o: ../LVGL/src/osal/lv_mqx.c \
+ ../LVGL/src/osal/lv_os_private.h ../LVGL/src/osal/../lv_conf_internal.h \
+ ../LVGL/src/osal/../lv_conf_kconfig.h ../LVGL/src/osal/../lv_conf.h \
+ ../LVGL/src/osal/lv_os.h ../LVGL/src/osal/../misc/lv_types.h \
+ ../LVGL/src/osal/../misc/../lv_conf_internal.h \
+ ../LVGL/src/osal/lv_freertos.h \
+ C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/FreeRTOS.h \
+ ../Core/Inc/FreeRTOSConfig.h ../Core/Inc/main.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal.h \
+ ../Core/Inc/stm32f3xx_hal_conf.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_def.h \
+ ../Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f3xx.h \
+ ../Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303xe.h \
+ ../Drivers/CMSIS/Include/core_cm4.h \
+ ../Drivers/CMSIS/Include/cmsis_version.h \
+ ../Drivers/CMSIS/Include/cmsis_compiler.h \
+ ../Drivers/CMSIS/Include/cmsis_gcc.h \
+ ../Drivers/CMSIS/Include/mpu_armv7.h \
+ ../Drivers/CMSIS/Device/ST/STM32F3xx/Include/system_stm32f3xx.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc_ex.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_gpio.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_gpio_ex.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_exti.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma_ex.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_cortex.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_flash.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_flash_ex.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c_ex.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pwr.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pwr_ex.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi_ex.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tim.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tim_ex.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_uart.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_uart_ex.h \
+ ../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi_ex.h \
+ C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/projdefs.h \
+ C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/portable.h \
+ C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/deprecated_definitions.h \
+ C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/portable/GCC/ARM_CM4F/portmacro.h \
+ C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/mpu_wrappers.h \
+ C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/task.h \
+ C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/list.h \
+ C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/semphr.h \
+ C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/queue.h \
+ C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/task.h
+../LVGL/src/osal/lv_os_private.h:
+../LVGL/src/osal/../lv_conf_internal.h:
+../LVGL/src/osal/../lv_conf_kconfig.h:
+../LVGL/src/osal/../lv_conf.h:
+../LVGL/src/osal/lv_os.h:
+../LVGL/src/osal/../misc/lv_types.h:
+../LVGL/src/osal/../misc/../lv_conf_internal.h:
+../LVGL/src/osal/lv_freertos.h:
+C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/FreeRTOS.h:
+../Core/Inc/FreeRTOSConfig.h:
+../Core/Inc/main.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal.h:
+../Core/Inc/stm32f3xx_hal_conf.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_def.h:
+../Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f3xx.h:
+../Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303xe.h:
+../Drivers/CMSIS/Include/core_cm4.h:
+../Drivers/CMSIS/Include/cmsis_version.h:
+../Drivers/CMSIS/Include/cmsis_compiler.h:
+../Drivers/CMSIS/Include/cmsis_gcc.h:
+../Drivers/CMSIS/Include/mpu_armv7.h:
+../Drivers/CMSIS/Device/ST/STM32F3xx/Include/system_stm32f3xx.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc_ex.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_gpio.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_gpio_ex.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_exti.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma_ex.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_cortex.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_flash.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_flash_ex.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c_ex.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pwr.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pwr_ex.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi_ex.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tim.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tim_ex.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_uart.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_uart_ex.h:
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi_ex.h:
+C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/projdefs.h:
+C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/portable.h:
+C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/deprecated_definitions.h:
+C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/portable/GCC/ARM_CM4F/portmacro.h:
+C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/mpu_wrappers.h:
+C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/task.h:
+C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/list.h:
+C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/semphr.h:
+C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/queue.h:
+C:/Users/user/Documents/STM32\ projects/FreeRTOS_third_try/include/task.h:
